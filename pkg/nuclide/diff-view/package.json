@@ -12,7 +12,7 @@
     "atom": ">=0.199.0"
   },
   "dependencies": {
-    "diff": "1.4.0",
+    "diff": "4.0.2",
     "immutable": "3.6.2",
     "nuclide-analytics": "0.0.0",
     "nuclide-atom-helpers": "0.0.0",
